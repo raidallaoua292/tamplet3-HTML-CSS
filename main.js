@@ -31,7 +31,7 @@ btn.onclick = function () {
 
 // The End of The Year Date To Countdown To
 
-let counhDownDate = new Date("Dec 31, 2022 23:59:59").getTime();
+let counhDownDate = new Date("Dec 31, 2023 23:59:59").getTime();
 // console.log(counhDownDate);
 
 let counter = setInterval(() => {
